@@ -18,6 +18,12 @@ Uma aplicação que possa gerenciar o fluxo de anotação de planos de cortes de
 - Barbeiro reclamou da dificuldade em gerenciar os planos do cliente, pois atualmente anota tudo em um caderno de forma manual, sem organização. 
 - Cliente informa que as vezes esquece de quantos cortes ainda possui em seu plano, já que não recebe nenhum cupom informativo, ficando refêm das anotações do barbeiro.
 
+### Como funciona o fluxo atual de trabalho
+Barbeiro anota em um caderno a mão o nome do cliente e escreve Corte 1, Corte 2, Corte 3, Corte 4 em cada linha.
+Quando um clinete realiza um corte ele risca com um traço e coloca na frente a data que foi realizado o corte.
+
+O cliente não tem nenhuma forma de saber quantos cortes ainda possui.
+
 ### O que esperam do sistema
 - *Barbeiro:* Quer um sistema em que ele possa cadastrar o tipo de plano de sua barbearia, além de poder gerenciar esses planos, como excluir, editar ou criar novos planos a qualquer momento. Registrar um novo plano para um cliente, registrar corte automatizando a quantidade de cortes atuais e quantos faltam e que possa ficar registrado no sistema o plano do cliente como um histórico. Ele quer também que o sistema informe a quantidade de planos ativos, clientes registrados e algo que possa chamar atenção daquele cliente que ficou um tempo sem cortar. Baebeiro informou que queria algo que pudesse fazer agendamentos de clientes para cortar o cabelo.
 - *Cliente:* Quer alguma coisa para mostrar a quantidade de cortes que ainda possui na barbearia
