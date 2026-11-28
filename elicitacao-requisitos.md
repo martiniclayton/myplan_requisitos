@@ -5,6 +5,10 @@
 ### **Contexto**
 Um barbeiro tem um sistema de planos mensal em sua barbearia, onde os clientes podem realizar 4 cortes em um mês pagando um valor fixo. Para saber quem possui um plano, ele tem que consultar em um caderno onde anota tudo a mão, os planos e os cortes realizados. Ele gostaria de poder centralizar toda essa anotação em um sistema que pudesse cadastrar esses planos, armazenar e poder visualizar de forma rápida e fácil.
 
+### Atores do Sistema
+* Barbeiro
+* Cliente
+
 ### Requisitos Funcionais
 1. **Autenticação**
    * **RF-001:(Cadastro)** O sistema deve permitir que uma barbearia cadastre suas informações, como o nome do barbeiro responsável, nome da barbearia, localização, email, senha e telefone.
